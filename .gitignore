@@ -1,0 +1,12 @@
+# 개인 설정과 로컬 데이터
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.csv
+*.xlsx
+*.db
+*.sqlite*
+.DS_Store
+Thumbs.db
